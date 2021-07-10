@@ -2,7 +2,7 @@
     "name": "coredx",
     "displayName": "CoreDX",
     "description": "Framework-agnostic core developer experience for web development with VS Code",
-    "icon": "https://user-images.githubusercontent.com/2541728/125146313-29eced80-e0f3-11eb-8a76-4dc7096100c0.png",
+    "icon": "kitchen_sink.png",
     "author": "Daniel Sieradski <daniel@self.agency>",
     "publisher": "selfagency",
     "version": "0.1.0",
