@@ -5,7 +5,7 @@
     "icon": "kitchen_sink.png",
     "author": "Daniel Sieradski <daniel@self.agency>",
     "publisher": "selfagency",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/selfagency/vsc-coredx.git"
@@ -123,7 +123,6 @@
         "octref.vetur",
         "oliversturm.fix-json",
         "Orta.vscode-jest",
-        "orval.orval-vscode",
         "pflannery.vscode-versionlens",
         "pinterest.package-watcher",
         "piotrpalarz.vscode-gitignore-generator",
@@ -134,7 +133,6 @@
         "Ponicode.ponicode",
         "quicktype.quicktype",
         "RandomFractalsInc.geo-data-viewer",
-        "rangav.vscode-thunder-client",
         "redhat.vscode-commons",
         "redhat.vscode-xml",
         "redhat.vscode-yaml",
