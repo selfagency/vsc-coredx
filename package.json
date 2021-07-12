@@ -5,7 +5,7 @@
   "icon": "kitchen_sink.png",
   "author": "Daniel Sieradski <daniel@self.agency>",
   "publisher": "selfagency",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/selfagency/vsc-coredx.git"
@@ -101,7 +101,6 @@
     "LouisWT.regexp-preview",
     "mads-hartmann.bash-ide-vscode",
     "maptz.regionfolder",
-    "marcostazi.VS-code-vagrantfile",
     "matthewpi.caddyfile-support",
     "me-dutour-mathieu.vscode-github-actions",
     "mechatroner.rainbow-csv",
