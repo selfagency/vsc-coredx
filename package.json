@@ -5,7 +5,7 @@
   "icon": "kitchen_sink.png",
   "author": "Daniel Sieradski <daniel@self.agency>",
   "publisher": "selfagency",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/selfagency/vsc-coredx.git"
@@ -73,7 +73,6 @@
     "ghmcadams.lintlens",
     "gwenio.vscode-ava-test-adapter",
     "HaaLeo.vscode-stylint",
-    "hashicorp.terraform",
     "hbenl.vscode-jasmine-test-adapter",
     "hbenl.vscode-mocha-test-adapter",
     "hbenl.vscode-test-explorer",
@@ -114,10 +113,8 @@
     "mohsen1.prettify-json",
     "mrmlnc.vscode-pugbeautify",
     "mrmlnc.vscode-scss",
-    "ms-azuretools.vscode-docker",
     "MS-CST-E.vscode-devskim",
     "ms-edgedevtools.vscode-edge-devtools",
-    "ms-kubernetes-tools.vscode-kubernetes-tools",
     "ms-toolsai.jupyter",
     "ms-vscode.atom-keybindings",
     "ms-vscode.hexeditor",
