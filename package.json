@@ -19,7 +19,6 @@
   "extensionPack": [
     "aaron-bond.better-comments",
     "adamhartford.vscode-base64",
-    "ahmadalli.vscode-nginx-conf",
     "alefragnani.project-manager",
     "artdiniz.quitcontrol-vscode",
     "azsdktm.SecurityIntelliSense",
@@ -43,7 +42,6 @@
     "erikphansen.vscode-toggle-column-selection",
     "esbenp.prettier-vscode",
     "flavienbusseuil.terminus",
-    "fnando.linter",
     "formulahendry.auto-close-tag",
     "foxundermoon.shell-format",
     "GitHub.copilot-chat",
@@ -85,7 +83,6 @@
     "richie5um2.vscode-sort-json",
     "spmeesseman.vscode-taskexplorer",
     "tamasfe.even-better-toml",
-    "TheNuProjectContributors.vscode-nushell-lang",
     "timonwong.shellcheck",
     "tombonnike.vscode-status-bar-format-toggle",
     "tomoki1207.pdf",
