@@ -5,7 +5,7 @@
   "icon": "kitchen_sink.png",
   "author": "Daniel Sieradski <daniel@self.agency>",
   "publisher": "selfagency",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/selfagency/vsc-coredx.git"
@@ -89,6 +89,7 @@
     "tumido.cron-explained",
     "Tyriar.sort-lines",
     "usernamehw.errorlens",
+    "uyiosa-enabulele.reopenclosedtab",
     "VisualStudioExptTeam.intellicode-api-usage-examples",
     "VisualStudioExptTeam.vscodeintellicode-completions",
     "VisualStudioExptTeam.vscodeintellicode",
