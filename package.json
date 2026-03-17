@@ -5,7 +5,7 @@
   "icon": "kitchen_sink.png",
   "author": "Daniel Sieradski <daniel@self.agency>",
   "publisher": "selfagency",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/selfagency/vsc-coredx.git"
@@ -22,7 +22,6 @@
     "adrianwilczynski.toggle-hidden",
     "alefragnani.project-manager",
     "amodio.toggle-excluded-files",
-    "andrejunges.handlebars",
     "antfu.goto-alias",
     "beardedbear.beardedicons",
     "beardedbear.beardedtheme",
@@ -76,7 +75,6 @@
     "mkxml.vscode-filesize",
     "ms-azuretools.vscode-containers",
     "ms-playwright.playwright",
-    "ms-vscode.extension-test-runner",
     "ms-vscode.hexeditor",
     "ms-vscode.live-server",
     "ms-vscode.test-adapter-converter",
